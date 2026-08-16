@@ -15,8 +15,7 @@ impl Rectangle {
             height: size,
         };
     }
-    fn can_cover(&self, other: &Rectangle)->bool
-    {
+    fn can_cover(&self, other: &Rectangle) -> bool {
         return self.width >= other.width && self.height >= other.height;
     }
 }
