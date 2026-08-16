@@ -5,3 +5,11 @@ version = 4
 [[package]]
 name = "ex001-hello-world"
 version = "0.1.0"
+
+[[package]]
+name = "ex002-ownership"
+version = "0.1.0"
+
+[[package]]
+name = "ex003-struct"
+version = "0.1.0"
